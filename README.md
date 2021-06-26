@@ -2,7 +2,7 @@
 This Tool outputs your public &amp; private ip address.
 
 ## USAGE
-<h3>I recommend you to Run all commands as sudo<h3>
+<h3>I recommend you to Run all commands as sudo</h3>
 <code>
 sudo apt-get install python3
 sudo apt-get install pip
