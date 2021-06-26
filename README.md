@@ -6,15 +6,18 @@ This Tool outputs your public &amp; private ip address.
 <code>
 sudo apt-get install python3\n
 </code>
+<br>
 <code>
 sudo apt-get install pip
 </code>
+<br>
+
 <code>
 sudo pip install -r requrements.txt
 </code>
+<br>
 
 <code>
 sudo python3 ip.py
- 
 </code>
 <p>Thanks</p>
